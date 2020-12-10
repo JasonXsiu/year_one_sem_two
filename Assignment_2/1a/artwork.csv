@@ -1,0 +1,16 @@
+
+INSERT INTO artwork VALUES(8,1,'Man of Few Words',210093,'01-Jun-2019');
+INSERT INTO artwork VALUES(9,1,'The night of Rome',60929,'22-Jun-2019');
+INSERT INTO artwork VALUES(19,1,'Us and Them',115636,'01-Jul-2019');
+INSERT INTO artwork VALUES(9,2,'Under the Weather',495983,'10-Jul-2019');
+INSERT INTO artwork VALUES(10,1,'Down To The Wire',211433,'12-Jul-2019');
+INSERT INTO artwork VALUES(20,1,'Duomo di Milano',90363,'20-Nov-2019');
+INSERT INTO artwork VALUES(1,1,'Creep',86208,'23-Nov-2019');
+INSERT INTO artwork VALUES(3,1,'Solitaire',339931,'01-Dec-2019');
+INSERT INTO artwork VALUES(19,2,'la Chanson de Mal',62178,'03-Dec-2019');
+INSERT INTO artwork VALUES(7,1,'la Couronne Diligente',70962,'04-Feb-2020');
+INSERT INTO artwork VALUES(3,2,'Scandalous Perseverance',272642,'04-Apr-2020');
+INSERT INTO artwork VALUES(3,3,'Faust and Expression',483984,'10-Apr-2020');
+INSERT INTO artwork VALUES(19,3,'Interior Starircase',205941,'15-Apr-2020');
+INSERT INTO artwork VALUES(2,1,'Shine on your crazy diamond',37302,'20-Apr-2020');
+INSERT INTO artwork VALUES(4,1,'Duomo di Milano',278600,'27-Apr-2020');
