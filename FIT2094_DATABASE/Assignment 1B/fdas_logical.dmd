@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="fdas_logical" id="067769EC-BF89-78D6-DF20-03771BD1B3F2" version="3.5">
+<createdBy>Jason</createdBy>
+<createdTime>2020-10-02 11:59:03 UTC</createdTime>
+<ownerDesignName>asm1b</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>067769EC-BF89-78D6-DF20-03771BD1B3F2</designId>
+</OSDM_Design>
